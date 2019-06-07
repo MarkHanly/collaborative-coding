@@ -5,8 +5,7 @@
 * Outputs:	Proportion of deaths in follow-up period by age and sex
 * Author:	Mark Hanly
 * Date:		5th Feb 2018
-* Note:		Specify the input and output folders in Step 1a - Step1d
-			(Make sure these locations exist)
+* Note:		Specify the root location in Step 1a 
 *********************************************************************/
 
 /* 1. Set project macros */
